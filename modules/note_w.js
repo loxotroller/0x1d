@@ -1,11 +1,11 @@
 const std = require('../lib/bot.js');
-var async = require("async");
+const sql_data = require('../etc/obj/sql.json');
 var mysql = require("mysql"),
       cMysql = mysql.createPool({
       database : 'notes',
       host     : 'localhost',
-      user     : '0x1d',
-      password : 'really_strong_db',
+      user     : sql_data.login,
+      password : sql_data.pass,
       connectionLimit: 100
     });
 
