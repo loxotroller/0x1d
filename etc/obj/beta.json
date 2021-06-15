@@ -1,0 +1,7 @@
+{
+    "en": "**>>set [command name] [true/false]** - allows or disables command usage",
+    "ru": "**>>set [имя команды] [можно/нельзя]** - разрешает или запрещает использование команды",
+    "enn": "No indev functions. ¯\\\\\\_(ツ)\\_/¯",
+    "run": "Нет функций в разработке. ¯\\\\\\_(ツ)\\_/¯"
+
+}

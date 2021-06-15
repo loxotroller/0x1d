@@ -1,0 +1,2 @@
+nohup ./kernel &
+disown

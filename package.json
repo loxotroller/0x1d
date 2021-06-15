@@ -1,0 +1,23 @@
+{
+  "name": "0x1d",
+  "version": "3.0.0",
+  "description": "a bot to chat with",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "loxotroller",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "child_process": "^1.0.2",
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security",
+    "minecraft-server-util": "^1.4.3",
+    "mysql": "^2.18.1",
+    "mysql-client": "^0.3.0",
+    "n": "^6.8.0",
+    "node.js": "0.0.1-security",
+    "nodemon": "^2.0.7"
+  }
+}

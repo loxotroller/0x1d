@@ -1,0 +1,7 @@
+{
+    "cat": ["General", "Fun", "Minecraft", "Notebook"],
+    "desc": [["**>>help** - prints this help", "**>>avatar** - your avatar", "**>>beta** - shows indev functions", "**>>tell** - report in the developer's console", "**>>time** - prints current time"],
+             ["**>>banono** - a random banana", "**>>casino [radius of random]** - spin the roulette", "**>>boost_casino** - boosted casino", "**>>amsg** - sends anonymous message to user you choose"],
+             ["**>>mcserver [server IP]** - info about the minecraft server", "**>>coords** - prints random coords"],
+             ["**>>note [data]** - create note", "**>>notes** - read all written notes", "**>>notepurge** - purge your notes"]]
+}
