@@ -1,5 +1,4 @@
 const std = require('../lib/bot.js');
-const num = require("../lib/num.js");
 const db = require('../etc/obj/help.json');
 
 module.exports = function help(msg){
