@@ -1,5 +1,6 @@
 <h1> 0x1d </h1>
 <p> Is a discord bot created just for fun </p>
+<h4> Upd: the bot is no longer developed or supported </h4>
 <h2> Usage </h2>
 Firstly clone the repo:
 <code> git clone https://github.com/loxotroller/0x1d.git </code> <br>
